@@ -3,4 +3,5 @@ Git is free software.
 添加一行看看 
 试试到底怎么回事，首先修改文件
 这回试一下在commit之前status
-asdflkjsalfdkjaslkdfjalskdjflkasdjflaksjdflkasdjflkasjdf
+asdflkjsalfdkjaslkdfjalskdjflkasdjflaksjdflkasdjflkasjdfdfasdfasdf
+sadfasdfasdf
